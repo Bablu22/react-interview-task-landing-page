@@ -27,3 +27,10 @@
 .banner-desc img {
   margin: 0 auto;
 }
+.slider-img {
+  height: 100vh;
+  width: 100%;
+  background-color: brown;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 88%, 47% 100%, 0 88%);
+  clip-path: polygon(0 0, 100% 0, 100% 88%, 47% 100%, 0 88%);
+}
