@@ -25,6 +25,9 @@ const Courses = () => {
           <Course key={course.name} course={course} />
         ))}
       </div>
+      <div className="w-full mx-auto block text-center">
+        <button className=" px-5 py-2 text-white mt-10 bg-red-900">View More</button>
+      </div>
     </div>
   );
 };
