@@ -1,0 +1,29 @@
+.slick-next {
+  right: 24px;
+}
+
+.slick-prev {
+  left: 24px;
+}
+.slick-prev,
+.slick-next {
+  z-index: 100;
+}
+.banner-img {
+  position: relative;
+  width: 100%;
+}
+
+.banner-desc {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 200;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+.banner-desc img {
+  margin: 0 auto;
+}
