@@ -2,7 +2,7 @@ import React from 'react';
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { MenuAlt1Icon, XIcon } from '@heroicons/react/solid'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/Picture1.png'
 
 
 const Header = () => {
@@ -34,10 +34,11 @@ const Header = () => {
                                     <div className="hidden sm:block sm:ml-auto mt-3">
                                         <div className="flex space-x-4 text-gray-900 font-medium">
                                         <a href="/">Home</a>
-                                        <a href="/">About</a>
-                                        <a href="/">Board of Directors</a>
-                                        <a href="/">Chairman's Message</a>
-                                        <a href="/">Campus</a>
+                                        <a href="/">About us</a>
+                                        <a href="/">Ongoing courses</a>
+                                        <a href="/">Author’s message</a>
+                                        <a href="/">Author’s message</a>
+                                        <a href="/">Register</a>
                                         </div>
                                     </div>
                                 </div>
@@ -69,18 +70,17 @@ const Header = () => {
                                     <a href="/">Home</a>
                                 </div>
                                 <div className="bg-gray-900 text-white text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
-                                <a href="/">About</a>
+                                <a href="/">About us</a>
                                 </div>
                                 <div className="bg-gray-900 text-white text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
-                                <a href="/">Board of Directors</a>
+                                <a href="/">Ongoing courses</a>
                                 </div>
                                 <div className="bg-gray-900 text-white text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
-                                <a href="/">Chairman's Message</a>
+                                <a href="/">Author’s message</a>
                                 </div>
                                 <div className="bg-gray-900 text-white text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">
-                                <a href="/">Campus</a>
+                                <a href="/">Register</a>
                                 </div>
-
                             </div>
                         </Disclosure.Panel>
                     </>

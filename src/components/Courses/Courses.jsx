@@ -16,11 +16,11 @@ const Courses = () => {
   }, []);
 
   return (
-    <div data-aos="fade-up" className="my-20 container mx-auto">
+    <div data-aos="fade-up" className="my-20 container mx-auto w-full">
       <h2 className="text-4xl text-center font-semibold text-red-800 mb-16">
         Ongoing Cources
       </h2>
-      <div class="lg:grid grid-cols-4 gap-4">
+      <div class="lg:grid grid-cols-5 gap-4">
         {courses.map((course) => (
           <Course key={course.name} course={course} />
         ))}

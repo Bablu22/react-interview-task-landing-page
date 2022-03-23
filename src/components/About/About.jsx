@@ -20,39 +20,24 @@ const About = () => {
               A Few Words About Us
             </h2>
             <p>
-              Safeerul Qur'an Institute (SQI) is an open online education
-              platform for the muslim populus to understand and learn the true
-              meaning and become an 'ambassador' of The Holy Qur'an. Anyone
-              becomes an ambassador by further spreading the light of Islamic
-              knowledge, living and acting in accordance with the values and
-              ethics of the Qur'an in daily life.
-            </p>
-          </div>
-          <div>
-            <h2 className="text-3xl font-semibold text-gray-800 py-3">
-              SQI's Mission
-            </h2>
-            <p>
-              To create a generation who will always be guided by The Qur'an and
-              Sunnah, and remain deeply connected to Allah SWT, and His
-              Messenger (plug dulc all to, (the righteous caliphs, and authentic
-              scholars in their matters of life and death.
-            </p>
-          </div>
-          <div>
-            <h2 className="text-3xl font-semibold text-gray-800 py-3">
-              Sol's Vision
-            </h2>
-            <p>
-              We strive to develop a wide range of Qur'anic Arabic resources for
-              learning and teaching that suit different age and
-              cultural-linguistic groups. Safeerul Quran Institute incorporates
-              practical learning and real-world experiences to make the learning
-              as easy, fun, quick and relevant as possible. Developing a world
-              class teacher programme for Qur'anic Arabic and education is one
-              of our priorities. Building a culture of confidence, independence
-              and accountability prepares students to become leaders and
-              upstanding individuals.
+              Safeerul Qur’an (SQ) is an open online education platform for the
+              muslim populous to understand and learn the true meaning and
+              become an ‘ambassador’ of The Holy Qur’an. Anyone becomes an
+              ambassador by further spreading the light of Islamic knowledge,
+              living and acting in accordance with the values and ethics of The
+              Qur'an in daily life. To raise a generation that will always be
+              led by the Qur'an and Sunnah, and who will remain profoundly
+              connected to Allah SWT, His Messenger ((صلى الله عليه وسلم, the
+              righteous caliphs, and legitimate scholars in their life and death
+              decisions. We seek to create a diverse set of Qur'anic Arabic
+              study and teaching tools that serve a variety of age and
+              cultural-linguistic groups. Safeerul Quran combines practical
+              learning with real-life experiences to make learning as simple,
+              enjoyable, quick, and relevant as possible. One of our top aims is
+              to create a world-class teaching program for Qur'anic Arabic and
+              education. Students are better prepared to become leaders and
+              upstanding citizens if a culture of confidence, independence, and
+              accountability is established.
             </p>
           </div>
         </div>

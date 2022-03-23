@@ -20,7 +20,7 @@ const Forerunners = () => {
     <div data-aos="fade-up" className="forerunners">
       <div className="container mx-auto px-3">
         <h2 className="text-4xl font-semibold text-center text-white mb-16">
-          Forerunners
+          ABOUT AUTHOR
         </h2>
         <div class="lg:grid grid-cols-4 gap-4">
           {foreruners.map((foreruner) => (
