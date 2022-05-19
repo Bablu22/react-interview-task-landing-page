@@ -5,8 +5,8 @@ const Foreruner = ({ foreruner }) => {
   return (
     <>
       <div class="flex flex-col items-center justify-center bg-white my-3 p-4 shadow rounded-lg">
-        <div class="inline-flex shadow-lg border border-gray-200 rounded-full overflow-hidden h-40 w-40">
-          <img src={img} alt="" class="h-full w-full" />
+        <div class="inline-flex shadow-lg border border-gray-200 rounded-full overflow-hidden h-40 w-40 ">
+          <img src={img} alt="" class="h-full  w-full " />
         </div>
 
         <h2 class="text-center mt-4 font-medium text-xl">{name}</h2>

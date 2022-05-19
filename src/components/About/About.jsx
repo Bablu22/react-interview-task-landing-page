@@ -10,7 +10,7 @@ const About = () => {
 
   return (
     <div data-aos="fade-up" className="container mx-auto w-full my-20">
-      <div class="lg:grid grid-cols-2 gap-4 w-full px-4">
+      <div class="lg:grid grid-cols-2 gap-2 w-full px-4">
         <div>
           <img src={image} alt="" />
         </div>
@@ -19,7 +19,7 @@ const About = () => {
             <h2 className="text-3xl font-semibold text-gray-800 py-3">
               A Few Words About Us
             </h2>
-            <p>
+            <p className="text-justify">
               Safeerul Qur’an (SQ) is an open online education platform for the
               muslim populous to understand and learn the true meaning and
               become an ‘ambassador’ of The Holy Qur’an. Anyone becomes an

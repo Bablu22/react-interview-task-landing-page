@@ -14,15 +14,10 @@ const Message = () => {
         <h2 className="text-4xl text-center font-semibold text-red-800 py-10">
           Chairman's Message
         </h2>
-        <img
-          className="w-28 h-28 rounded-full border border-4 border-red-800 p-1 mx-auto"
-          src={image}
-          alt=""
-        />
         <h3 className="text-center text-sky-800 font-semibold text-xl py-5">
-          DR ABUL KALAM AZAD
+          DR. ABUL KALAM AZAD
         </h3>
-        <p className="w-3/5 mx-auto">
+        <p className="w-4/6 mx-auto text-justify">
           " In the name of Allah, The Most Gracious, The Most Merciful. All
           Praise be to Allah SWT, and peace and blessings be upon His Messenger,
           Muhammad PBH. Our beloved Prophet (plug dulc all to (said: “The best

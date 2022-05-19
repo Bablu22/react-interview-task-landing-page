@@ -1,31 +1,23 @@
 [
-    {
-      "name": "Dr Abul Kalam Azad",
-      "des": "Chairman & Principal",
-      "img": "https://yt3.ggpht.com/GfauWf9TV4YMBVWO1nTrexduqoe7itFRXTcDwPUXMJcPU-Gs525z2v7P7Urfcql2HMgPCU3V=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "name": "Dr Fazal Mahmood",
-      "des": "Director",
-      "img": "https://media.millichronicle.com/2019/02/12122817/61A0663_m-755x445.jpg"
-    },
-    {
-      "name": "Md. Shahadat Hossain Muhammad Rashid",
-      "des": "Director",
-      "img": "https://i.pinimg.com/474x/4c/21/d5/4c21d58ed05e0f66a05fdac42aa1e49f.jpg"
-    },
-    {
-      "name": "Al Majid Khan Siddiqi Mamun",
-      "des": "Director",
-      "img": "https://media.millichronicle.com/2019/02/12122817/61A0663_m-755x445.jpg"
-    }
-  ]
-
-
-
-
-
-
-
-
+  {
+    "name": "Dr Abul Kalam Azad",
+    "des": "Chairman & Principal",
+    "img": "https://i.ibb.co/qd37zY4/kalam.jpg"
+  },
+  {
+    "name": "Muhammad Rashid Al Majid Khan Siddiqi Mamun",
+    "des": "Director",
+    "img": "https://i.ibb.co/Z6PLWL5/mamun.jpg"
+  },
+  {
+    "name": "Dr Fazal Mahmood",
+    "des": "Director",
+    "img": "https://i.ibb.co/VL3RPBF/fazal.jpg"
+  },
+  {
+    "name": "Md. Shahadat Hossain ",
+    "des": "Director",
+    "img": "https://i.ibb.co/pRYVLYn/shahdat.jpg"
+  }
+]
 
